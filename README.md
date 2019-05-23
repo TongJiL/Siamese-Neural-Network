@@ -1,6 +1,7 @@
 # Siamese Neural Network
+One-shot learning is a challenging task in machine learning, in which we need to classify a test image given one or limited training data.In this paper, we implemented one-shot image recognition via Siamese Neural Network (SNN) with few data on the quick-draw program. The SNN architecture shows its capability to learn features in limited training set, as well as identify new classes never trained before.
 
- ![image](https://github.com/TongJiL/Siamese-Neural-Network/blob/master/result/p-h.png)
+![image](https://github.com/TongJiL/Siamese-Neural-Network/blob/master/result/p-h.png)
  
 Description
 ===========
