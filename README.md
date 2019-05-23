@@ -1,5 +1,6 @@
 # Siamese Neural Network
 
+ ![image](https://github.com/TongJiL/Siamese-Neural-Network/blob/master/result/p-h.png)
  
 Description
 ===========
