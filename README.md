@@ -1,4 +1,4 @@
-# SNN
+# Siamese Neural Network
 
  
 Description
